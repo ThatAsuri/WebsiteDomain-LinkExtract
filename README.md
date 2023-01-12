@@ -1,5 +1,5 @@
-# WebsiteDomain-LinkExtract
-This python scripts allow you to extract list all domains or links that a certain website refers to. 
+# Website and Domain references extractor
+These python scripts allow you to extract list all domains or links that a certain website refers to. 
 
 ## Required python modules
 This script requires the following python modules:
